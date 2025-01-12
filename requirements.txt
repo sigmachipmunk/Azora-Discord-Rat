@@ -1,0 +1,6 @@
+discord
+requests
+pycaw
+pyautogui
+pynput
+comtypes
