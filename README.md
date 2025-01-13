@@ -50,19 +50,19 @@ Installing the Azora Discord Rat is simple, just follow these quick steps
 After installing the Azora Discord-Rat, heres what you have to do!
 ( if you havent already installed it then folow the guide above )
 ## Step 1. Creating the bot and server used in the script
-1. Create a discord server(the name does not matter)
+**1.** Create a discord server(the name does not matter)
 
-2. Go to [Discord.dev](https://discord.dev)
+**2.** Go to [Discord.dev](https://discord.dev)
 
-3. Go to the applications tab and click "New Application"
+**3.** Go to the applications tab and click "New Application"
 
-4. Go to the bot tab inside your application and under "Privileged Gateway Intents", enable all of them
+**4.** Go to the bot tab inside your application and under "Privileged Gateway Intents", enable all of them
 
-5. Then, go to the OAuth2 tab, and under OAuth2 URL Generator, enable the "Bot" checkbox.
+**5.** Then, go to the OAuth2 tab, and under OAuth2 URL Generator, enable the "Bot" checkbox.
 
-6. Then, another tab should appear, select administrator and make sure under all of that, guild install is selected.
+**6.** Then, another tab should appear, select administrator and make sure under all of that, guild install is selected.
 
-7. Take the link it provides you, put it in your browser, and add it to the server you created
+**7.** Take the link it provides you, put it in your browser, and add it to the server you created
 
 ## Step 2. Generating the rat payload(the file that the target will run)
 
