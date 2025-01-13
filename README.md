@@ -26,7 +26,14 @@ The reason why you should choose us? Well, theres many of them!
 ## Reason 2: We provide the best software, with no risk of malicious software, or backdoors.
 - All of our software is open source, meaning you can look through the code and check whether theres malware or not, but we can rest you assured that everything is safe.
 - Any bugs that may be unsafe, are **EASILY** reportable in our [discord](https://discord.gg/RsuR3DWzj5), as soon as you send the report, we will get onto it and make sure our software experience remains enjoyable and safe 
-
+# Requirements
+## Controller Requirements
+- Windows 11/10 pc for the script used to create the rat file
+- A [discord](https://discord.com) account
+- A [python](https://www.python.org/downloads/) installation
+## Target Requirements
+- Windows 11/10 pc for the rat file to run on
+- Some sort of internet connection
 # Installation
 Installing the Azora Discord Rat is simple, just follow these quick steps
 
@@ -42,5 +49,22 @@ Installing the Azora Discord Rat is simple, just follow these quick steps
 # How to use
 After installing the Azora Discord-Rat, heres what you have to do!
 ( if you havent already installed it then folow the guide above )
+## Step 1. Creating the bot and server used in the script
+1. Create a discord server(the name does not matter)
+
+2. Go to [Discord.dev](https://discord.dev)
+
+3. Go to the applications tab and click "New Application"
+
+4. Go to the bot tab inside your application and under "Privileged Gateway Intents", enable all of them
+
+5. Then, go to the OAuth2 tab, and under OAuth2 URL Generator, enable the "Bot" checkbox.
+
+6. Then, another tab should appear, select administrator and make sure under all of that, guild install is selected.
+
+7. Take the link it provides you, put it in your browser, and add it to the server you created
+
+## Step 2. Generating the rat payload(the file that the target will run)
+
 
 
