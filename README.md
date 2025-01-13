@@ -14,7 +14,7 @@ You might be wondering how this can be used?
 
 Well no matter the use case, Azora Discord Rat allows for connection and commands even if their computer is across the globe!
 
-Interested? Well [click here](askdasjkd.com) for the installation guide!
+Interested? Well [click here](https://github.com/sigmachipmunk/Azora-Discord-Rat#installation) for the installation guide!
 
 # Why choose us?
 The reason why you should choose us? Well, theres many of them!
