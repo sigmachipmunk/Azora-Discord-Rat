@@ -49,7 +49,7 @@ Installing the Azora Discord Rat is simple, just follow these quick steps
 # How to use
 After installing the Azora Discord-Rat, heres what you have to do!
 ( if you havent already installed it then folow the guide above )
-## Step 1. Creating the bot and server used in the script
+### Step 1. Creating the bot and server used in the script
 **1.** Create a discord server(the name does not matter)
 
 **2.** Go to [Discord.dev](https://discord.dev)
@@ -64,7 +64,7 @@ After installing the Azora Discord-Rat, heres what you have to do!
 
 **7.** Take the link it provides you, put it in your browser, and add it to the server you created
 
-## Step 2. Generating the rat payload(the file that the target will run)
+### Step 2. Generating the rat payload(the file that the target will run)
 
 
 
