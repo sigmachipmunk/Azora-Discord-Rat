@@ -65,6 +65,27 @@ After installing the Azora Discord-Rat, heres what you have to do!
 **7.** Take the link it provides you, put it in your browser, and add it to the server you created
 
 ### Step 2. Generating the rat payload(the file that the target will run)
+After you have done step 1, you are able to generate the rat file that you will make your target run..
 
+**1.** After installing the Azora Discord-Rat, open setup.bat, this will install all necessary libaries and files for the builder.
+
+**2.** After the program finishes loading, you should be met with a green interface. Choose option 1. to build the rat file.
+
+**3.** Go back to [Discord.dev](https://discord.dev) and select your application. Then go to bot and copy your token. If you do not have the option to copy the token, then reset it and copy it.
+
+**4.** Put the token in where it asks on the program, it should then ask you for a server id.
+
+**5.** Go to discord and right click on the server you created, then click copy server id.(if that doesnt show up for you, go to your discord settings, then advanced, and enable developer options)
+
+**6.** Put the server id inside of the program where it asks you to.
+
+**7.** It should then ask whether you want the rat to be an exe. I ****HIGHLY**** RECOMMEND you choose yes by inputting y. otherwise it will be a .py file
+
+**8.** After that, if you chose no to the exe conversion part, you should see a .py file in the build folder of the script. But if you chose yes, it should take a minute and convert the file to an exe, after its done, it should be located in the build folder.
+
+After you have completed all these steps, you can send the exe to someone, and if they open it, inside of the server you made, it should create a channel with the name being their ip(this was so that the bot can differenciate computers allowing you to hold multiple pc's at the same time)
+From there, type !help and the bot should send you a message containing all the commands.
+
+# Problems and solutions
 
 
