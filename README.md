@@ -37,3 +37,10 @@ Installing the Azora Discord Rat is simple, just follow these quick steps
 - 3: Find the location its downloaded in, right click on it, and extract it.
 
 - 4: After all of these are complete, run setup.bat which will download and install all of the required libraries for the software and then start the software
+
+
+# How to use
+After installing the Azora Discord-Rat, heres what you have to do!
+( if you havent already installed it then folow the guide above )
+
+
