@@ -28,3 +28,4 @@ The reason why you should choose us? Well, theres many of them!
 - Any bugs that may be unsafe, are **EASILY** reportable in our [discord](https://discord.gg/RsuR3DWzj5), as soon as you send the report, we will get onto it and make sure our software experience remains enjoyable and safe 
 
 # Installation
+Installing the Azora Discord Rat is simple, just follow these quick steps
