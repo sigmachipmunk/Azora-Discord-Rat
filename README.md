@@ -8,6 +8,8 @@
 # What is Azora Discord Rat?
 Azora Discord Rat is a flexible Remote Access Trojan written in python, it features 41 post exploitation modules allowing you to controll, troll, or manage infected computers effortlessly and with varity.
 
+Interested? Well [click here](askdasjkd.com) for the installation guide!
+
 # Why choose us?
 The reason why you should choose us? Well, theres many of them!
 
