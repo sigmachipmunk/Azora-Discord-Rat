@@ -29,6 +29,53 @@ The reason why you should choose us? Well, theres many of them!
 ## Reason 2: We provide the best software, with no risk of malicious software, or backdoors.
 - All of our software is open source, meaning you can look through the code and check whether theres malware or not, but we can rest you assured that everything is safe.
 - Any bugs that may be unsafe, are **EASILY** reportable in our [discord](https://discord.gg/RsuR3DWzj5), as soon as you send the report, we will get onto it and make sure our software experience remains enjoyable and safe 
+# Features
+- Azora Discord-Rat is packed with features that can vary from
+```
+                    ------non admin------
+                    !cmd - executes a cmd
+                    !screenshot - gets a screenshot of the screen
+                    !python - executes any python 1 line
+                    !messagebox - makes a msg box(usage: !mesagebox (title) (text)))
+                    !website - opens a website(usage: !website (websitename), MUST INCLUDE HTTPS:// ))
+                    !shutdown - shutsdown pc
+                    !restart - restarts pc
+                    !logout - logsout pc
+                    !admincheck - checks for admin privleges
+                    !volmax - sets the volume to max
+                    !volmin - sets the volume to mute
+                    !typewrite - types in a key or sentence of your choice
+                    !hotkey - uses a hot key like ctrl w, ctrl s, ctrl z, etc
+                    !startup - adds a file in their startup folder. does not run with admin.
+                    !tasklist - shows all running tasks
+                    !endtask - ends any usermode(non admin) task
+                    !endtaskpid - ends a task using the process id(non admin)
+                    !quit - closes the rat
+                    ----key logger modules-----------------
+                        !keylog - sends every key pressed into the channel
+                        !keycollect - when on, puts all pressed keys in a list
+                        !keydump - dumps all keys in the stored list
+                        !keyclear - clears the dump list
+                    --------admin required------
+                    (use WITH admin so no bugs happen)
+                    !adminstartup - adds a file to startup but runs with admin 
+                    !bluescreen - bluescreens pc
+                    !critproc - bluescreens pc if rat is closed
+                    !uncritproc - makes the process normal so you can close safely
+                    !disabletaskmgr - disables the task manager
+                    !disableregedit - disables the registry editor
+                    !disablefirewall - disables windows defender firewall
+                    !disabledefender - disables windows defender
+                    !disablereset - stops the user from resetting their pc
+                    !enablefirewall - enables firewall
+                    !enabledefender - enables windows defender
+                    !enabletaskmgr - enables task manager
+                    !enableregedit - enables the registry editor
+                    !enablereset - allows the user to reset their pc
+                    !exclude - does a mass exclusion to stop wd from removing your files
+                    !adminendtask - ends a task but with admin rights(allows you to kill kinda anything)
+                    !adminendtaskpid - ends a task by using the process id(get from tasklist
+```
 # Requirements
 ## Controller Requirements
 - Windows 11/10 pc for the script used to create the rat file
