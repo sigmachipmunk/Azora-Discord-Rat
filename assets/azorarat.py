@@ -432,7 +432,7 @@ class botclient(discord.Client):
             help_message = """                        
             ---------modules----------
                     ----------utility-----------
-                    
+                    !purge - removes all messages sent in the channel
                     ------non admin------
                     !cmd - executes a cmd
                     !pwsh - same thing as !cmd but with powershell
