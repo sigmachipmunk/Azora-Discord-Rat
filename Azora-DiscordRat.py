@@ -5,7 +5,7 @@ import requests
 import base64
 import re
 import shutil
-os.system("color a")
+os.system("color D")
 username = os.getenv("USERNAME")
 clientpaneling = False
 running = True
